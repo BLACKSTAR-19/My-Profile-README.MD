@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BLACKSTAR-19
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Google IT Support Professional Certification Course
+- 👀 I’m interested in Programming (C, Cpp, JAVA, Python, HTML), learning Google IT Support Professional Certification Course and JavaScript
+- 🌱 I’m currently persuing B.Tech in CSE at GHRCEM,Pune
 - 📫 How to reach me - E-mail id: sahilthete.st@gmail.com
 
 <!---
