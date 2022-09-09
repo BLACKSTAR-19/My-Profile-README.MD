@@ -6,10 +6,6 @@ You can click the Preview link to take a look at your changes.
 
   
 ### A Tech-savvy || Aspiring FIVEM Dev
-
-## 🛠 Skills
-- C, C++ , JAVA , Python , LUA , HTML , CSS , JavaScript
-
   
 ## 😃 About me 
 
@@ -19,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 - 📕 I'm learning Google IT Support Professional Certification Course and JavaScript
 - 🌱 I’m currently persuing B.Tech in CSE at GHRCEM,Pune
 - 📫 How to reach me - E-mail id: sahilthete.st@gmail.com.
+
+  ## 🛠 Skills
+- C, C++ , JAVA , Python , LUA , HTML , CSS , JavaScript
 
   
 ### 
