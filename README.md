@@ -39,7 +39,6 @@ You can click the Preview link to take a look at your changes.
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) 
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilThete&theme=vue" align = "center"> -->
 
-
  [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilThete&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
