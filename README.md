@@ -17,16 +17,17 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me - E-mail id: sahilthete.st@gmail.com.
 
   ## 🛠 Skills
-- C, C++ , JAVA , Python , LUA , HTML , CSS , JavaScript
+- C, C++ , JAVA , Python
+- Front-end Developing (HTML , CSS , JavaScript)
+- FiveM LUA Developing
 
-  
 ### 
 
 
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=simple)](https://github.com/BLACKSTAR-19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=compact)](https://github.com/BLACKSTAR-19/github-readme-stats)
 
 
 ###  📈 GitHub Stats
