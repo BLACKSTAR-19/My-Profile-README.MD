@@ -9,20 +9,19 @@ BLACKSTAR-19/BLACKSTAR-19 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
  ! -----------------------------------------------------
-# Hi, I'm Pratham Pitty
+# Hi, I'm Sahil Thete
 
   
-### A Tech-savvy || Web Developer || Passionate Programmer || Ethical hacker
-
+### A Tech-savvy 
 
 ## 🛠 Skills
-- C, C++ , Python , shell programming , Git , HTML , CSS , JavaScript
+- C, C++ , Python , JAVA , HTML , CSS , JavaScript
 
   
 ## 😃 About me 
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science department
- - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pitty-6636b2208/)
+ - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sahil-Thete-6636b2208/)
  - 📚 I’m currently learning Data Structure, Java and Python
  - 🗣 Knows English, Hindi, Marathi, german .
 
@@ -31,33 +30,33 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- ![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&theme=radical)
+<!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampitty&layout=compact)](https://github.com/PrathamPitty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThete&layout=compact)](https://github.com/BLACKSTAR-19/github-readme-stats)
 ### Authors
 
-- [@prathampitty](https://www.github.com/prathampitty) -->
+- [@SahilThete](https://www.github.com/BLACKSTAR-19) -->
 
 
 ###  📈 GitHub Stats
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=prathampitty&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampitty&theme=blueberry_duo"/> |
+<!-- | <img src="https://github-readme-stats.vercel.app/api?username=SahilThete&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilThete&theme=blueberry_duo"/> |
 | ------------| ------------- |  -->
 
 <!-- Test section -->
-| [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathampitty&theme=github_dark&show_icons=true)](https://github.com/prathampitty) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathampitty&theme=highcontrast)](https://github.com/prathampitty)  |
+| [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&theme=github_dark&show_icons=true)](https://github.com/SahilThete) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilThete&theme=highcontrast)](https://github.com/SahilThete)  |
 | ------------| ------------- |  
 
 <!-- -->
 
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathampitty&theme=vue" align = "left"/> |
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACKSTAR-19&theme=vue" align = "left"/> |
 | ---- | ---- | -->
 
 
- [![Pratham's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathampitty&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilThete&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **_Last updated: 9/09/2022_**
 
-<!-- **_[@prathampitty](https://www.github.com/prathampitty)_** -->
+<!-- **_[@SahilThete](https://www.github.com/BLACKSTAR-19)_** -->
 
