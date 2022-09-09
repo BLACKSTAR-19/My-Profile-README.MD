@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BLACKSTAR-19
-- 👀 I’m interested in Programming (C, Cpp, JAVA, Python, HTML) an CyberSecurity
+- 👀 I’m interested in Programming (C, Cpp, JAVA, Python, HTML, CSS, JS) an CyberSecurity
 - 📕 I'm learning Google IT Support Professional Certification Course and JavaScript
 - 🌱 I’m currently persuing B.Tech in CSE at GHRCEM,Pune
 - 📫 How to reach me - E-mail id: sahilthete.st@gmail.com
@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm Sahil Thete
 
   
-### A Tech-savvy 
+### A Tech-savvy || Aspiring FIVEM Dev
 
 ## 🛠 Skills
-- C, C++ , Python , JAVA , HTML , CSS , JavaScript
+- C, C++ , JAVA , Python , LUA , HTML , CSS , JavaScript
 
   
 ## 😃 About me 
 
- - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science department
+ - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science Dept.
  - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thete-338242207/)
  - 📚 I’m currently learning Front-end Developing using JS
  - 🗣 Knows English, Hindi, Marathi, Spanish .
