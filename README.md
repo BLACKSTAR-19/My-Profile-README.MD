@@ -30,17 +30,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=simple)](https://github.com/BLACKSTAR-19/github-readme-stats)
 ### Authors
 
-- [@SahilThete](https://www.github.com/BLACKSTAR-19) -->
-
+- [@SahilThete](https://www.github.com/BLACKSTAR-19)
 
 ###  📈 GitHub Stats
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=blueberry_duo"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=blueberry_duo"/> |
 | ------------| ------------- |  -->
 
 <!-- Test section -->
@@ -49,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- -->
 
-<!-- ### ✍️ Random Dev Quotes and Profile Summary
+ ### ✍️ Random Dev Quotes and Profile Summary
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACKSTAR-19&theme=vue" align = "right"/> |
 | ---- | ---- | -->
 
