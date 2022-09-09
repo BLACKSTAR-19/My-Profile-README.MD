@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## 😃 About me 
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science department
- - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sahil-Thete-6636b2208/)
+ - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thete-338242207/)
  - 📚 I’m currently learning Data Structure, Java and Python
  - 🗣 Knows English, Hindi, Marathi, german .
 
@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&show_icons=true&theme=radical)
+<!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThete&layout=compact)](https://github.com/BLACKSTAR-19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=compact)](https://github.com/BLACKSTAR-19/github-readme-stats)
 ### Authors
 
 - [@SahilThete](https://www.github.com/BLACKSTAR-19) -->
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 | ------------| ------------- |  -->
 
 <!-- Test section -->
-| [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&theme=github_dark&show_icons=true)](https://github.com/SahilThete) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilThete&theme=highcontrast)](https://github.com/SahilThete)  |
+| [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&theme=github_dark&show_icons=true)](https://github.com/BLACKSTAR-19) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=highcontrast)](https://github.com/BLACKSTAR-19)  |
 | ------------| ------------- |  
 
 <!-- -->
