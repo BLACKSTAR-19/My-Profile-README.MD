@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 ###  📈 GitHub Stats
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=SahilThete&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilThete&theme=blueberry_duo"/> |
+<!-- | <img src="https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=blueberry_duo"/> |
 | ------------| ------------- |  -->
 
 <!-- Test section -->
-| [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilThete&theme=github_dark&show_icons=true)](https://github.com/BLACKSTAR-19) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=highcontrast)](https://github.com/BLACKSTAR-19)  |
+| [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&theme=github_dark&show_icons=true)](https://github.com/BLACKSTAR-19) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BLACKSTAR-19&theme=highcontrast)](https://github.com/BLACKSTAR-19)  |
 | ------------| ------------- |  
 
 <!-- -->
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 | ---- | ---- | -->
 
 
- [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilThete&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=BLACKSTAR-19&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **_Last updated: 9/09/2022_**
 
