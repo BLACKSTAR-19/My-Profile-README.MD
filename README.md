@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science department
  - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thete-338242207/)
- - 📚 I’m currently learning Data Structure, Java and Python
- - 🗣 Knows English, Hindi, Marathi, german .
+ - 📚 I’m currently learning Front-end Developing using JS
+ - 🗣 Knows English, Hindi, Marathi, Spanish .
 
   
 ### 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=compact)](https://github.com/BLACKSTAR-19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=simple)](https://github.com/BLACKSTAR-19/github-readme-stats)
 ### Authors
 
 - [@SahilThete](https://www.github.com/BLACKSTAR-19) -->
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <!-- -->
 
 <!-- ### ✍️ Random Dev Quotes and Profile Summary
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACKSTAR-19&theme=vue" align = "left"/> |
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLACKSTAR-19&theme=vue" align = "right"/> |
 | ---- | ---- | -->
 
 
