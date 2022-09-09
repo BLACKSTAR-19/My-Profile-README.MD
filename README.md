@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## 😃 About me 
 
  - I'm a student at G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT under the Computer Science Dept.
- - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thete-338242207/)
+ - 🍳Find me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=center&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-thete-338242207/)
  - 📚 I’m currently learning Front-end Developing using JS
  - 🗣 Knows English, Hindi, Marathi, Spanish .
 
