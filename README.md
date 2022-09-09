@@ -28,9 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLACKSTAR-19&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSTAR-19&layout=simple)](https://github.com/BLACKSTAR-19/github-readme-stats)
-### Authors
 
-- [@SahilThete](https://www.github.com/BLACKSTAR-19)
 
 ###  📈 GitHub Stats
 
@@ -54,3 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- **_[@SahilThete](https://www.github.com/BLACKSTAR-19)_** -->
 
+### Authors
+
+- [@SahilThete](https://www.github.com/BLACKSTAR-19)
