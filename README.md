@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📕 I'm learning Google IT Support Professional Certification Course and JavaScript
 - 🌱 As of now, I'm enrolled in the "V"th semester of the CSE B.Tech program at GHRCEM, Pune.
 - 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/Sahil%20Thete-0A66C2?style=flat-square&color=white&logo=gmail)](mailto:sahilthete.st@gmail.com) **||** 📱 WhatsApp [![wa](https://img.shields.io/badge/Sahil%20Thete-0A66C2?style=flat-square&color=white&logo=whatsapp)](https://api.whatsapp.com/send/?phone=918956888839&text=Hey+there%21&type=phone_number)
-- 🍳Find me on - 💼 LinkedIn [![linkedin](https://img.shields.io/badge/Sahil%20Thete-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SahilThete-338242207/)  **||** 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/sahil_thete?color=blue&label=Sahil%20Thete&logo=twitter&style=flat-square)](https://www.twitter.com/sahil_thete/)  **||** 👥 Discord [![discord](https://img.shields.io/discord/871263899180236820?label=ENCORES&logo=discord&style=flat-square)](https://discord.gg/k47bQrx89x)
+- 🍳Find me on - 💼 LinkedIn [![linkedin](https://img.shields.io/badge/Sahil%20Thete-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SahilThete-338242207/)  **||** 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/sahil_thete?color=blue&label=Sahil%20Thete&logo=twitter&style=flat-square)](https://www.twitter.com/sahil_thete/)  **||** 👥 Discord [![discord](https://img.shields.io/discord/871263899180236820?label=ENCORES&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/k47bQrx89x)
 
  ### 🛠 Skills
 - C, C++ , JAVA , Python
