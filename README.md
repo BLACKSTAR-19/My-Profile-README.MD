@@ -3,8 +3,8 @@ SahilThete/SahilThete is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I'm Sahil Thete 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=success&up_message=online&url=https%3A%2F%2Fsahilthete.github.io%2F)](https://sahilthete.github.io/) 
-<!-- ![wave2](https://github.com/SahilThete/SahilThete/assets/91048637/872823b7-83e2-492c-9ceb-c1858b1d9cdb) -->
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Hi, I'm Sahil Thete 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=success&up_message=online&url=https%3A%2F%2Fsahilthete.github.io%2F)](https://sahilthete.github.io/) 
+
 
 ### A Tech-Savvy
   
