@@ -31,6 +31,11 @@ You can click the Preview link to take a look at your changes.
 - PHP
 - MySQL, MongoDB
 
+<!-- ## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,flask,flutter,mysql,mongodb,gcp,azure,docker,kubernetes,linux,vscode,androidstudio,neovim,git,markdown,github,gitlab,githubactions,vercel")
+</p> -->
 
 ###  📈 GitHub Stats
 
@@ -44,6 +49,18 @@ You can click the Preview link to take a look at your changes.
 | -------------- | -------------- |
 
 <!-- [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilThete&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- <details>
+<summary> 🔗 Connect with me: </summary>
+ 
+| platform | Address |
+| ---- | -------|
+| 🌐 Portfolio:| www.rudrakshakrpe.me |
+| 📧 Mail: | rudraksh.karpe@gmail.com |
+|👥 LinkedIn: | https://www.linkedin.com/in/rudrakshkarpe |
+| 🐦 Twitter:| https://twitter.com/rudrakshkarpe |
+</details> -->
+
 
 
 **_Last updated: 30/05/2023_**
