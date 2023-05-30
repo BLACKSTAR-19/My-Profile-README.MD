@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Sahil Thete 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=success&up_message=online&url=https%3A%2F%2Fsahilthete.github.io%2F)](https://sahilthete.github.io/)
-![] (https://github.com/SahilThete/SahilThete/wave.gif)
+![wave] (https://github.com/SahilThete/SahilThete/wave.gif)
 
 ### A Tech-Savvy
   
